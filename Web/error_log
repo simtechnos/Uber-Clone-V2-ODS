@@ -1,0 +1,119 @@
+[05-Nov-2015 21:00:14 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:00:14 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:03:03 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:03:03 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:33:13 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:33:13 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:34:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/amiga9500/public_html/android/newtaxi/app/routes.php on line 243
+[05-Nov-2015 21:34:11 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:34:11 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:36:51 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:36:51 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:37:01 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:37:01 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:37:01 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:37:01 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:39:31 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:39:31 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:40:44 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:40:44 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:44:47 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 21:44:47 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 23:17:01 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 23:17:01 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 23:17:04 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 23:17:04 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 23:17:14 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: validator' in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php:140
+Stack trace:
+#0 /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php(140): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/amiga9500...', 140, Array)
+#1 [internal function]: WalkerController->register()
+#2 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('register', Array)
+#4 /home/amiga9500/public_html/android/newtaxi/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(WalkerController), Object(Illuminate\Routing\Route), 'register')
+#5 /home/amiga9500 in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[05-Nov-2015 23:17:14 UTC] PHP Fatal error:  Call to a member function fails() on a non-object in /home/amiga9500/public_html/android/newtaxi/app/controllers/WalkerController.php on line 140
+[21-Nov-2015 08:16:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/amiga9500/public_html/android/newtaxi/app/controllers/DogController.php on line 2241
